@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style type="text/css">
+         .style1
+         {  
+            width: 156px;
+         }
+         .style2
+         {
+            width: 332px;
+         }
+        #Text1 {
+            width: 346px;
+        }
+        #Text2 {
+            width: 346px;
+        }
+        #Text3 {
+            width: 344px;
+        }
+        #Text4 {
+            width: 341px;
+        }
+        #Text5 {
+            width: 341px;
+        }
+      </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+         <div>
+            <table style="width: 54%;">
+               <tr>
+                  <td class="style1">Name:</td>
+                  <td class="style2">
+                     <asp:TextBox ID="txtname" runat="server"  style="width:230px">
+                     </asp:TextBox>
+                      <input id="Text1" type="text" /></td>
+               </tr>
+				
+               <tr>
+                  <td class="style1">Course</td>
+                  <td class="style2">
+                     <asp:TextBox ID="txtstreet" runat="server"  style="width:230px">
+                     </asp:TextBox>
+                      <input id="Text2" type="text" /></td>
+               </tr>
+				
+               <tr>
+                  <td class="style1">Collage</td>
+                  <td class="style2">
+                     <asp:TextBox ID="txtcity" runat="server"  style="width:230px">
+                     </asp:TextBox>
+                      <input id="Text3" type="text" /></td>
+               </tr>
+				
+               <tr>
+                  <td class="style1">State</td>
+                  <td class="style2">
+                     <asp:TextBox ID="txtstate" runat="server" style="width:230px">
+                     </asp:TextBox>
+                      <input id="Text4" type="text" /></td>
+               </tr>
+				
+               <tr>
+                  <td class="style1"> country</td>
+                  <td class="style2">
+                      <input id="Text5" type="text" /></td>
+               </tr>
+				
+            </table>
+            
+         </div>
+         <asp:Button ID="Button1" runat="server" onclick="Button1_Click" Text="Click" />
+      </form>
+</body>
+</html>
+

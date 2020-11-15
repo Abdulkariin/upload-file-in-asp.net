@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2012\Projects\Ahmed\Ahmed\bin\Ahmed.dll
+c:\users\acer\documents\visual studio 2012\Projects\Ahmed\Ahmed\bin\Ahmed.pdb
+c:\users\acer\documents\visual studio 2012\Projects\Ahmed\Ahmed\obj\Debug\Ahmed.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\Ahmed\Ahmed\obj\Debug\Ahmed.dll
+c:\users\acer\documents\visual studio 2012\Projects\Ahmed\Ahmed\obj\Debug\Ahmed.pdb
